@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+<rect width="900" height="360" rx="28" fill="#eaf5ee"/>
+<path d="M0 250 Q180 180 350 250 T700 235 T900 230 V360 H0Z" fill="#b8ddc2"/>
+<path d="M0 285 Q200 215 400 285 T900 265 V360 H0Z" fill="#438b63"/>
+<circle cx="710" cy="90" r="48" fill="#f5d47a"/>
+<text x="54" y="105" font-family="Arial" font-size="28" font-weight="bold" fill="#174d36">LOS RÍOS</text>
+<text x="54" y="150" font-family="Arial" font-size="18" fill="#174d36">Tierra de ríos, agricultura y tradición</text>
+</svg>
